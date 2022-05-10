@@ -1,6 +1,9 @@
 # SF-ShortStoryGame
 English-206: Science Fiction Final Short Story
 
+# About
+A choose your own adventure created using Twine 2.0. You play a cyberpunk detective investigating a typical breaking and entering, but strange things start to happen...
+
 # How to Edit
 
 1. Clone
